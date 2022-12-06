@@ -1,5 +1,3 @@
-# ICASSP2020-MEA
-Code: ICASSP2020-Multi-view Clustering via Mixed Embedding Approximation
 
 This is the code for
 
